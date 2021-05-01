@@ -2,4 +2,4 @@
 -Projects for FreeCodeCamp's certifications.
 
 ##Reponsive Web Design Certification
-- [ ]Tribute Page project.
+- [x] Tribute Page project.
